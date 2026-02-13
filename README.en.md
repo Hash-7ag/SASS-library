@@ -73,6 +73,6 @@ This project is distributed under the MIT license
 
 ### 📬 Контакты
 
-<div align="center"> <a href="https://github.com/Ali-Hsv"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="mailto:ur@email.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </div>
+<div align="center"> <a href="https://github.com/Hash-7ag"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="mailto:nan.fgbs@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </div>
 
 <div align="center"> <p>⭐ If you like this project, don't forget to give it a star!</p> </div> ```
